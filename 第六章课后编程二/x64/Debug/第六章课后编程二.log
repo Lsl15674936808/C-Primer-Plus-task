@@ -1,0 +1,4 @@
+﻿  Uni_6.c
+F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程二\Uni_6.c(51,1): warning C4305: “初始化”: 从“double”到“const float”截断
+F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程二\Uni_6.c(52,1): warning C4305: “初始化”: 从“double”到“const float”截断
+  第六章课后编程二.vcxproj -> F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程二\x64\Debug\第六章课后编程二.exe
