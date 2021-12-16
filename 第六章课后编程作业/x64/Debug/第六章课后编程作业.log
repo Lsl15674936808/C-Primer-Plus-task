@@ -1,0 +1,6 @@
+﻿  第六章.c
+F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程作业\第六章.c(104,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程作业\第六章.c(175,17): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程作业\第六章.c(179,18): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程作业\第六章.c(183,18): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  第六章课后编程作业.vcxproj -> F:\Users\帅的人知道密码\Desktop\c语言练习\2021\第六章课后编程作业\x64\Debug\第六章课后编程作业.exe
